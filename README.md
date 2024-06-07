@@ -2,7 +2,7 @@
 
 I'm a curious Computer Science Student, currently based in Milan, Italy, but with the dream to travel the world.
 Now what I'm looking for is challenging internships and meaningful open-source projects to work in.
-If you have any proposal or want only to chat with me it's possible to reach me here on on my [linkedin](www.linkedin.com/in/lucaleonzio) 
+If you have any proposal or want only to chat with me it's possible to reach me here on on my [linkedin](https://www.linkedin.com/in/lucaleonzio/)) 
 
 <!---
 LucaLeonx/LucaLeonx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
